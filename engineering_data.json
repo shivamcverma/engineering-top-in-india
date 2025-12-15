@@ -1,0 +1,567 @@
+[
+  {
+    "category": "Top MBA Colleges in India",
+    "colleges": [
+      {
+        "college_url": "https://www.shiksha.com/college/iit-madras-indian-institute-of-technology-adyar-chennai-3031",
+        "college_img": "https://images.shiksha.com/mediadata/images/1630668488phpf8KwKV.jpeg",
+        "name": "IIT Madras - Indian Institute of Technology",
+        "nirf": "1",
+        "details": {
+          "fees": ": ₹ 10.00 Lakh",
+          "salary": ": ₹ 18.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938",
+        "college_img": "https://images.shiksha.com/mediadata/images/1687868166php8yeOso.jpeg",
+        "name": "IIT Delhi - Indian Institute of Technology",
+        "nirf": "2",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 19.08 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/iit-bombay-indian-institute-of-technology-mumbai-54212",
+        "college_img": "https://images.shiksha.com/mediadata/images/1605086820phpSFQlAR.jpg",
+        "name": "IIT Bombay - Indian Institute of Technology",
+        "nirf": "3",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 17.92 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-kanpur-indian-institute-of-technology-25116",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570693266php1HVCm6.jpg",
+        "name": "IIT Kanpur - Indian Institute of Technology",
+        "nirf": "4",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 19.40 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-kharagpur-indian-institute-of-technology-2999",
+        "college_img": "https://images.shiksha.com/mediadata/images/1763553547phpk3rUm5.jpeg",
+        "name": "IIT Kharagpur - Indian Institute of Technology",
+        "nirf": "5",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 19.76 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-roorkee-indian-institute-of-technology-3057",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570094042phpyJMujv.jpg",
+        "name": "IIT Roorkee - Indian Institute of Technology",
+        "nirf": "6",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 15.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-hyderabad-indian-institute-of-technology-32726",
+        "college_img": "https://images.shiksha.com/mediadata/images/1631073594phpJ9vJyb.jpeg",
+        "name": "IIT Hyderabad - Indian Institute of Technology",
+        "nirf": "7",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-guwahati-indian-institute-of-technology-3065",
+        "college_img": "https://images.shiksha.com/mediadata/images/1631081471php0fdqJ0.jpeg",
+        "name": "IIT Guwahati - Indian Institute of Technology",
+        "nirf": "8",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 34.10 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/nit-trichy-national-institute-of-technology-tiruchirappalli-2996",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569393544phpF4H6mc.jpg",
+        "name": "NIT Trichy - National Institute of Technology",
+        "nirf": "9",
+        "details": {
+          "fees": ": ₹ 5.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/indian-institute-of-technology-bhu-varanasi-3011",
+        "college_img": "https://images.shiksha.com/mediadata/images/1571917722php4T9xSb.jpg",
+        "name": "Indian Institute of Technology, BHU, Varanasi",
+        "nirf": "10",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/bits-pilani-birla-institute-of-technology-and-science-467",
+        "college_img": "https://images.shiksha.com/mediadata/images/1651202150phpkFIRsH.jpeg",
+        "name": "BITS Pilani - Birla Institute of Technology and Science",
+        "nirf": "11",
+        "details": {
+          "fees": ": ₹ 20.76 Lakh",
+          "salary": ": ₹ 16.15 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-indore-indian-institute-of-technology-38240",
+        "college_img": "https://images.shiksha.com/mediadata/images/1572328911phpOGTZ0q.jpg",
+        "name": "IIT Indore - Indian Institute of Technology",
+        "nirf": "12",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 21.20 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/nit-rourkela-national-institute-of-technology-28530",
+        "college_img": "https://images.shiksha.com/mediadata/images/1607331837phpesDOul.jpg",
+        "name": "NIT Rourkela - National Institute of Technology",
+        "nirf": "13",
+        "details": {
+          "fees": ": ₹ 5.00 Lakh",
+          "salary": ": ₹ 11.50 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/srm-institute-of-science-and-technology-kattankulathur-chennai-24749",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569304335phpHattQO.jpg",
+        "name": "SRM Institute of Science and Technology, Kattankulathur",
+        "nirf": "14",
+        "details": {
+          "fees": ": ₹ 11.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669",
+        "college_img": "https://images.shiksha.com/mediadata/images/1563536760phpDBfxzT.jpeg",
+        "name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
+        "nirf": "15",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 15.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/vit-vellore-29714",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569304025phpouOBXz.jpg",
+        "name": "VIT Vellore",
+        "nirf": "16",
+        "details": {
+          "fees": ": ₹ 7.80 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/nit-surathkal-national-institute-of-technology-mangalore-24187",
+        "college_img": "https://images.shiksha.com/mediadata/images/1571907236phpTCgKIg.jpg",
+        "name": "NIT Surathkal - National Institute of Technology",
+        "nirf": "17",
+        "details": {
+          "fees": ": ₹ 5.00 Lakh",
+          "salary": ": ₹ 14.21 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/jadavpur-university-kolkata-19992",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569391981phpLqu0vG.jpg",
+        "name": "Jadavpur University",
+        "nirf": "18",
+        "details": {
+          "fees": ": ₹ 20,840",
+          "salary": ": ₹ 10.50 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-patna-indian-institute-of-technology-32697",
+        "college_img": "https://images.shiksha.com/mediadata/images/1631265508phpD3JDjD.jpeg",
+        "name": "IIT Patna - Indian Institute of Technology",
+        "nirf": "19",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/college-of-engineering-anna-university-guindy-chennai-51546",
+        "college_img": "https://images.shiksha.com/mediadata/images/1571724654phpr3XbQF.jpg",
+        "name": "College of Engineering, Anna University",
+        "nirf": "20",
+        "details": {
+          "fees": ": ₹ 48,000",
+          "salary": ": ₹ 7.50 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/nit-calicut-national-institute-of-technology-4288",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570094474php6AZ4Dh.jpeg",
+        "name": "NIT Calicut - National Institute of Technology",
+        "nirf": "21",
+        "details": {
+          "fees": ": ₹ 5.00 Lakh",
+          "salary": ": ₹ 8.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/soa-university-siksha-o-anusandhan-bhubaneswar-38037",
+        "college_img": "https://images.shiksha.com/mediadata/images/1739958464phpUHhn4U.jpeg",
+        "name": "SOA University - Siksha 'O' Anusandhan",
+        "nirf": "22",
+        "details": {
+          "fees": ": ₹ 11.80 Lakh",
+          "salary": ": ₹ 5.70 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/amrita-school-of-engineering-amrita-vishwa-vidyapeetham-coimbatore-36898",
+        "college_img": "https://images.shiksha.com/mediadata/images/1563529031phpJ3esjH.jpg",
+        "name": "Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore",
+        "nirf": "23",
+        "details": {
+          "fees": ": ₹ 24.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/jamia-millia-islamia-delhi-843",
+        "college_img": "https://images.shiksha.com/mediadata/images/1638347515phpcd2cDM.jpeg",
+        "name": "Jamia Millia Islamia",
+        "nirf": "24",
+        "details": {
+          "fees": ": ₹ 76,900",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705",
+        "college_img": "https://images.shiksha.com/mediadata/images/1571811745phpwv1zON.jpg",
+        "name": "IIT Gandhinagar - Indian Institute of Technology",
+        "nirf": "25",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 16.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-mandi-indian-institute-of-technology-33322",
+        "college_img": "https://images.shiksha.com/mediadata/images/1564479850phpNQMNLj.jpeg",
+        "name": "IIT Mandi - Indian Institute of Technology",
+        "nirf": "26",
+        "details": {
+          "fees": ": ₹ 8.08 Lakh",
+          "salary": ": ₹ 24.60 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-jodhpur-indian-institute-of-technology-32712",
+        "college_img": "https://images.shiksha.com/mediadata/images/1600947270phpH4Rd8R.jpg",
+        "name": "IIT Jodhpur - Indian Institute of Technology",
+        "nirf": "27",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/nit-warangal-national-institute-of-technology-25425",
+        "college_img": "https://images.shiksha.com/mediadata/images/1570182098phpjRtkH9.jpg",
+        "name": "NIT Warangal - National Institute of Technology",
+        "nirf": "28",
+        "details": {
+          "fees": ": ₹ 5.00 Lakh",
+          "salary": ": ₹ 12.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/thapar-university-patiala-3015",
+        "college_img": "https://images.shiksha.com/mediadata/images/1608799151phpeLrMDz.jpg",
+        "name": "Thapar University",
+        "nirf": "29",
+        "details": {
+          "fees": ": ₹ 19.56 Lakh",
+          "salary": ": ₹ 11.89 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/dtu-delhi-technological-university-23920",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569306404phpbokZti.jpeg",
+        "name": "DTU - Delhi Technological University",
+        "nirf": "30",
+        "details": {
+          "fees": ": ₹ 7.40 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/chandigarh-university-cu-45668",
+        "college_img": "https://images.shiksha.com/mediadata/images/1610694069phpYY6cff.jpeg",
+        "name": "Chandigarh University (CU)",
+        "nirf": "31",
+        "details": {
+          "fees": ": ₹ 12.24 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-ropar-indian-institute-of-technology-32693",
+        "college_img": "https://images.shiksha.com/mediadata/images/1563537663phps1JDR7.jpg",
+        "name": "IIT Ropar - Indian Institute of Technology",
+        "nirf": "32",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 18.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/kalasalingam-academy-of-research-and-education-virudhunagar-37820",
+        "college_img": "https://images.shiksha.com/mediadata/images/1668070277phph4IxkL.jpeg",
+        "name": "Kalasalingam Academy of Research and Education",
+        "nirf": "33",
+        "details": {
+          "fees": ": ₹ 7.40 Lakh",
+          "salary": ": ₹ 6.75 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/zakir-husain-college-of-engineering-and-technology-aligarh-muslim-university-50219",
+        "college_img": "https://images.shiksha.com/mediadata/images/1563530842phpINWC67.jpeg",
+        "name": "Zakir Husain College of Engineering and Technology, Aligarh Muslim University",
+        "nirf": "34",
+        "details": {
+          "fees": "",
+          "salary": ": ₹ 6.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/kl-college-of-engineering-kl-university-guntur-53517",
+        "college_img": "https://images.shiksha.com/mediadata/images/1620827195phpnZ3YOs.jpeg",
+        "name": "KL College of Engineering, KL University",
+        "nirf": "35",
+        "details": {
+          "fees": ": ₹ 10.20 Lakh",
+          "salary": ": ₹ 7.60 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/kiit-kalinga-institute-of-industrial-technology-bhubaneswar-37926",
+        "college_img": "https://images.shiksha.com/mediadata/images/1572328331phpf7HGDW.jpg",
+        "name": "KIIT - Kalinga Institute of Industrial Technology",
+        "nirf": "36",
+        "details": {
+          "fees": ": ₹ 17.60 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/amity-university-noida-41334",
+        "college_img": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
+        "name": "Amity University, Noida",
+        "nirf": "37",
+        "details": {
+          "fees": ": ₹ 10.80 Lakh",
+          "salary": ": ₹ 6.00 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/international-institute-of-information-technology-hyderabad-53885",
+        "college_img": "https://images.shiksha.com/mediadata/images/1571920801phpDEQFI7.jpeg",
+        "name": "International Institute of Information Technology, Hyderabad",
+        "nirf": "38",
+        "details": {
+          "fees": ": ₹ 18.00 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717",
+        "college_img": "https://images.shiksha.com/mediadata/images/1692684758php8lqPF8.jpeg",
+        "name": "IIT Bhubaneswar - Indian Institute of Technology",
+        "nirf": "39",
+        "details": {
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 9.50 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      },
+      {
+        "college_url": "https://www.shiksha.com/university/sastra-deemed-to-be-university-thanjavur-4075",
+        "college_img": "https://images.shiksha.com/mediadata/images/1577166055phppV7qbp.jpeg",
+        "name": "SASTRA (Deemed to be University)",
+        "nirf": "40",
+        "details": {
+          "fees": ": ₹ 6.80 Lakh",
+          "salary": ": ₹ 7.60 Lakh",
+          "rankings": {
+            "business_today": "",
+            "outlook": ""
+          }
+        }
+      }
+    ]
+  }
+]
