@@ -10,7 +10,22 @@ from webdriver_manager.chrome import ChromeDriverManager
 import platform
 
 mba_sections = {
-    "Top MBA Colleges in India": "https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-india/44-2-0-0-0",
+    "Top Engineering Colleges in India": "https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-india/44-2-0-0-0",
+    "Top Private Engineering Colleges in India":"https://www.shiksha.com/engineering/ranking/top-private-engineering-colleges-in-india/109-2-0-0-0",
+    "Top IITS in india":"https://www.shiksha.com/engineering/ranking/top-iits-colleges-in-india/113-2-0-0-0",
+    "Top  NITS in india":"https://www.shiksha.com/engineering/ranking/top-nits-colleges-in-india/115-2-0-0-0" ,
+    "Top Engineering Colleges in Banglore": "https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-bangalore/44-2-0-278-0",
+    "Top Engineering Colleges in karnataka":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-karnataka/44-2-106-0-0" ,
+    "Top Engineering Colleges in Hydrabaad":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-hyderabad/44-2-0-702-0",
+    "Top Engineering Colleges in Pune":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-pune/44-2-0-174-0" ,
+    "Top Engineering Colleges in Mumbai":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-mumbai/44-2-0-151-0",
+    "Top Engineering Colleges in Maharastra":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-maharashtra/44-2-114-0-0",
+    "Top Engineering Colleges in Chennai": "https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-chennai/44-2-0-64-0",
+    "Top Engineering Colleges in Kerla":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-kerala/44-2-107-0-0"  ,
+    "Top Engineering Colleges in Delhi":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-delhi/44-2-0-74-0"  ,
+    "Top Engineering Colleges in telangana":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-telangana/44-2-413-0-0",
+    "Top Engineering Colleges in gujarat":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-gujarat/44-2-109-0-0",
+    "Top Engineering Colleges in west-bengal":"https://www.shiksha.com/engineering/ranking/top-engineering-colleges-in-west-bengal/44-2-127-0-0",
 }
 
 def create_driver():
