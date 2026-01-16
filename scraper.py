@@ -175,6 +175,11 @@ def scrape():
 
     finally:
         driver.quit()
+    return all_sections_data
+
+TEMP_FILE = "engineering_data.tmp.json"
+FINAL_FILE = "engineering_data.json"
+if __name__ == "__main__":
     data = scrape()
     with open(TEMP_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -183,6 +188,3 @@ def scrape():
     os.replace(TEMP_FILE, FINAL_FILE)
 
     print("✅ Data scraped & saved successfully (atomic write)")
-
-if __name__ == "__main__":
-    scrape()
