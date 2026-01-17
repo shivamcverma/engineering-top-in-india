@@ -37,7 +37,7 @@
         "nirf": "3",
         "details": {
           "fees": ": ₹ 8.00 Lakh",
-          "salary": ": ₹ 17.92 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -722,7 +722,7 @@
         "name": "Graphic Era Deemed to be University",
         "nirf": "52",
         "details": {
-          "fees": ": ₹ 17.27 Lakh",
+          "fees": ": ₹ 15.95 Lakh",
           "salary": ": ₹ 7.25 Lakh",
           "rankings": {
             "business_today": "",
@@ -928,12 +928,12 @@
       },
       {
         "id": "college_067",
-        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
-        "name": "PSGCT Coimbatore",
+        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
+        "name": "Sathyabama Institute of Science and Technology",
         "nirf": "67",
         "details": {
-          "fees": ": ₹ 2.00 Lakh",
-          "salary": ": ₹ 7.00 Lakh",
+          "fees": "",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -942,12 +942,12 @@
       },
       {
         "id": "college_068",
-        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
-        "name": "Sathyabama Institute of Science and Technology",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
+        "name": "PSGCT Coimbatore",
         "nirf": "67",
         "details": {
-          "fees": "",
-          "salary": "",
+          "fees": ": ₹ 2.00 Lakh",
+          "salary": ": ₹ 7.00 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -1031,7 +1031,7 @@
         "nirf": "74",
         "details": {
           "fees": ": ₹ 1.97 Lakh",
-          "salary": ": ₹ 8.25 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -1268,7 +1268,7 @@
         "name": "SR University",
         "nirf": "91",
         "details": {
-          "fees": ": ₹ 6.37 Lakh",
+          "fees": ": ₹ 12.73 Lakh",
           "salary": ": ₹ 10.00 Lakh",
           "rankings": {
             "business_today": "",
@@ -1632,8 +1632,8 @@
         "name": "Jaypee Institute of Information Technology",
         "nirf": "101-150",
         "details": {
-          "fees": ": ₹ 12.73 Lakh",
-          "salary": ": ₹ 7.93 Lakh",
+          "fees": ": ₹ 16.34 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -2528,7 +2528,7 @@
         "name": "NHCE Bangalore - New Horizon College of Engineering",
         "nirf": "151-200",
         "details": {
-          "fees": ": ₹ 15.00 Lakh",
+          "fees": ": ₹ 10.00 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "",
@@ -2762,12 +2762,12 @@
       },
       {
         "id": "college_198",
-        "college_img": "https://images.shiksha.com/mediadata/images/1458909257phproOyfF.jpg",
-        "name": "Yeshwantrao Chavan College of Engineering, Nagar Yuwak Shikshan Sanstha",
+        "college_img": "https://images.shiksha.com/mediadata/images/1610020889phptpg893.jpeg",
+        "name": "Visvesvaraya Technological University",
         "nirf": "151-200",
         "details": {
-          "fees": ": ₹ 5.57 Lakh",
-          "salary": ": ₹ 5.00 Lakh",
+          "fees": ": ₹ 1.35 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -2776,12 +2776,12 @@
       },
       {
         "id": "college_199",
-        "college_img": "https://images.shiksha.com/mediadata/images/1610020889phptpg893.jpeg",
-        "name": "Visvesvaraya Technological University",
+        "college_img": "https://images.shiksha.com/mediadata/images/1458909257phproOyfF.jpg",
+        "name": "Yeshwantrao Chavan College of Engineering, Nagar Yuwak Shikshan Sanstha",
         "nirf": "151-200",
         "details": {
-          "fees": ": ₹ 1.35 Lakh",
-          "salary": "",
+          "fees": ": ₹ 5.57 Lakh",
+          "salary": ": ₹ 5.00 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -2958,7 +2958,7 @@
       },
       {
         "id": "college_212",
-        "college_img": "https://images.shiksha.com/mediadata/images/1765366843phpwK573l.jpeg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1768202106php0qaArc.jpeg",
         "name": "CGC University, Mohali",
         "nirf": "201-300",
         "details": {
@@ -3098,7 +3098,7 @@
       },
       {
         "id": "college_222",
-        "college_img": "https://images.shiksha.com/mediadata/images/1745575605phpTnfUBM_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1754550428phpiuI7RR_155x116.jpg",
         "name": "Galgotias College of Engineering and Technology",
         "nirf": "201-300",
         "details": {
@@ -3224,7 +3224,7 @@
       },
       {
         "id": "college_231",
-        "college_img": "https://images.shiksha.com/mediadata/images/1753421343phpk6z8P8_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1495699996phpoG7bqA_155x116.jpg",
         "name": "IES College of Technology",
         "nirf": "201-300",
         "details": {
@@ -3551,7 +3551,7 @@
         "nirf": "201-300",
         "details": {
           "fees": ": ₹ 7.28 Lakh",
-          "salary": ": ₹ 4.25 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -3812,7 +3812,7 @@
       },
       {
         "id": "college_273",
-        "college_img": "https://images.shiksha.com/mediadata/images/1546412573phpPq3RM7_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1752483667phpMo2sYu_155x116.jpg",
         "name": "R.M.D. Engineering College",
         "nirf": "201-300",
         "details": {
@@ -4083,7 +4083,7 @@
         "nirf": "201-300",
         "details": {
           "fees": ": ₹ 4.90 Lakh",
-          "salary": ": ₹ 4.50 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
