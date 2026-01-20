@@ -928,12 +928,12 @@
       },
       {
         "id": "college_067",
-        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
-        "name": "Sathyabama Institute of Science and Technology",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
+        "name": "PSGCT Coimbatore",
         "nirf": "67",
         "details": {
-          "fees": "",
-          "salary": "",
+          "fees": ": ₹ 2.00 Lakh",
+          "salary": ": ₹ 7.00 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -942,12 +942,12 @@
       },
       {
         "id": "college_068",
-        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
-        "name": "PSGCT Coimbatore",
+        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
+        "name": "Sathyabama Institute of Science and Technology",
         "nirf": "67",
         "details": {
-          "fees": ": ₹ 2.00 Lakh",
-          "salary": ": ₹ 7.00 Lakh",
+          "fees": "",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -2104,7 +2104,7 @@
       },
       {
         "id": "college_151",
-        "college_img": "https://images.shiksha.com/mediadata/images/1576477263phpNMSfH8_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1566986362phpoDk0Fq_155x116.png",
         "name": "Crescent School of Life Sciences (B.S.Abdur Rahman University)",
         "nirf": "151-200",
         "details": {
@@ -3042,7 +3042,7 @@
       },
       {
         "id": "college_218",
-        "college_img": "https://images.shiksha.com/mediadata/images/1743665511phpCOj6wr_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1539161402phpk8gBRI_155x116.png",
         "name": "Dr. Shyama Prasad Mukherjee International Institute of Information Technology, Naya Raipur",
         "nirf": "201-300",
         "details": {
@@ -3112,11 +3112,11 @@
       },
       {
         "id": "college_223",
-        "college_img": "https://images.shiksha.com/mediadata/images/1578654481phpuYy4xt.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1768805761phpoZhWa4.jpeg",
         "name": "Gandhi Engineering College",
         "nirf": "201-300",
         "details": {
-          "fees": ": ₹ 4.00 Lakh",
+          "fees": ": ₹ 6.20 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "",
@@ -3224,7 +3224,7 @@
       },
       {
         "id": "college_231",
-        "college_img": "https://images.shiksha.com/mediadata/images/1495699996phpoG7bqA_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1753421343phpk6z8P8_155x116.jpg",
         "name": "IES College of Technology",
         "nirf": "201-300",
         "details": {
