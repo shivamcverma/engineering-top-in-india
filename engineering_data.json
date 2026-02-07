@@ -373,7 +373,7 @@
         "nirf": "27",
         "details": {
           "fees": ": ₹ 8.00 Lakh",
-          "salary": "",
+          "salary": ": ₹ 1.60 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -848,7 +848,7 @@
         "name": "IIST - Indian Institute of Space Science and Technology",
         "nirf": "61",
         "details": {
-          "fees": ": ₹ 6.25 Lakh",
+          "fees": ": ₹ 5.00 Lakh",
           "salary": ": ₹ 10.50 Lakh",
           "rankings": {
             "business_today": "",
@@ -928,12 +928,12 @@
       },
       {
         "id": "college_067",
-        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
-        "name": "PSGCT Coimbatore",
+        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
+        "name": "Sathyabama Institute of Science and Technology",
         "nirf": "67",
         "details": {
-          "fees": ": ₹ 2.00 Lakh",
-          "salary": ": ₹ 7.00 Lakh",
+          "fees": "",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -942,12 +942,12 @@
       },
       {
         "id": "college_068",
-        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
-        "name": "Sathyabama Institute of Science and Technology",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
+        "name": "PSGCT Coimbatore",
         "nirf": "67",
         "details": {
-          "fees": "",
-          "salary": "",
+          "fees": ": ₹ 2.00 Lakh",
+          "salary": ": ₹ 7.00 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -2892,7 +2892,7 @@
         "name": "Army Institute of Technology",
         "nirf": "201-300",
         "details": {
-          "fees": ": ₹ 6.76 Lakh",
+          "fees": ": ₹ 7.45 Lakh",
           "salary": ": ₹ 12.00 Lakh",
           "rankings": {
             "business_today": "",
@@ -3224,7 +3224,7 @@
       },
       {
         "id": "college_231",
-        "college_img": "https://images.shiksha.com/mediadata/images/1495699996phpoG7bqA_155x116.jpg",
+        "college_img": "https://images.shiksha.com/mediadata/images/1753421343phpk6z8P8_155x116.jpg",
         "name": "IES College of Technology",
         "nirf": "201-300",
         "details": {
@@ -4082,7 +4082,7 @@
         "name": "Teerthanker Mahaveer University",
         "nirf": "201-300",
         "details": {
-          "fees": ": ₹ 4.90 Lakh",
+          "fees": ": ₹ 5.40 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "",
