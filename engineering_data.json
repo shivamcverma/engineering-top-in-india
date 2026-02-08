@@ -928,12 +928,12 @@
       },
       {
         "id": "college_067",
-        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
-        "name": "Sathyabama Institute of Science and Technology",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
+        "name": "PSGCT Coimbatore",
         "nirf": "67",
         "details": {
-          "fees": "",
-          "salary": "",
+          "fees": ": ₹ 2.00 Lakh",
+          "salary": ": ₹ 7.00 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -942,12 +942,12 @@
       },
       {
         "id": "college_068",
-        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
-        "name": "PSGCT Coimbatore",
+        "college_img": "https://images.shiksha.com/mediadata/images/1649318614phpoSV5C3.jpeg",
+        "name": "Sathyabama Institute of Science and Technology",
         "nirf": "67",
         "details": {
-          "fees": ": ₹ 2.00 Lakh",
-          "salary": ": ₹ 7.00 Lakh",
+          "fees": "",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -2762,12 +2762,12 @@
       },
       {
         "id": "college_198",
-        "college_img": "https://images.shiksha.com/mediadata/images/1610020889phptpg893.jpeg",
-        "name": "Visvesvaraya Technological University",
+        "college_img": "https://images.shiksha.com/mediadata/images/1458909257phproOyfF.jpg",
+        "name": "Yeshwantrao Chavan College of Engineering, Nagar Yuwak Shikshan Sanstha",
         "nirf": "151-200",
         "details": {
-          "fees": ": ₹ 1.35 Lakh",
-          "salary": "",
+          "fees": ": ₹ 5.57 Lakh",
+          "salary": ": ₹ 5.00 Lakh",
           "rankings": {
             "business_today": "",
             "outlook": ""
@@ -2776,12 +2776,12 @@
       },
       {
         "id": "college_199",
-        "college_img": "https://images.shiksha.com/mediadata/images/1458909257phproOyfF.jpg",
-        "name": "Yeshwantrao Chavan College of Engineering, Nagar Yuwak Shikshan Sanstha",
+        "college_img": "https://images.shiksha.com/mediadata/images/1610020889phptpg893.jpeg",
+        "name": "Visvesvaraya Technological University",
         "nirf": "151-200",
         "details": {
-          "fees": ": ₹ 5.57 Lakh",
-          "salary": ": ₹ 5.00 Lakh",
+          "fees": ": ₹ 1.35 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "",
             "outlook": ""
